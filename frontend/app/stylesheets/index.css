@@ -1,0 +1,14 @@
+#index_page_parent{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 10% 80% 10%;
+    height: 100vh;
+}
+
+#index_page_middle_section{
+    background-color: red;
+}
+
+#index_page_footer{
+    background-color: blue;
+}
